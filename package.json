@@ -1,0 +1,25 @@
+{
+  "name": "react-native-privacy-shield",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bluebird2000/react-native-privacy-shield.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bluebird2000/react-native-privacy-shield/issues"
+  },
+  "homepage": "https://github.com/Bluebird2000/react-native-privacy-shield#readme",
+  "description": "",
+  "dependencies": {
+    "@react-native-community/netinfo": "^11.4.1",
+    "react": "^19.1.0",
+    "react-native": "^0.80.0"
+  }
+}
