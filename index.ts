@@ -1,7 +1,7 @@
 import { Platform, AppState, AppStateStatus } from 'react-native';
 import React, { useEffect } from 'react';
-import RNPrivacyShieldNative from './nativeModule';P
 import NetInfo from '@react-native-community/netinfo';
+import RNPrivacyShieldNative from './nativeModule';
 
 // ---- Native Module Definition ----
 export const enableScreenSecurity = () => {
